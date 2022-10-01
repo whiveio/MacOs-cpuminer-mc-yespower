@@ -6,7 +6,7 @@
 Run the following commands in your mac terminal:
 ```bash
 
-$ git clone https://github.com/xyephy/MacOS-cpuminer-mc-yespower.git 
+$ git clone https://github.com/whiveio/MacOs-cpuminer-mc-yespower 
 
 $ brew install curl
 
@@ -14,7 +14,7 @@ $ brew install autoconf
 
 $ brew install automake
 
-$ cd MacOS-cpuminer-mc-yespower 
+$ cd MacOs-cpuminer-mc-yespower 
 
 $ ./autogen.sh
 
