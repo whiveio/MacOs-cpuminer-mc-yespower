@@ -3,7 +3,7 @@
 # Build
 
 ### MacOS
-Run the following commands in your mac terminal:
+Run the following commands in your mac terminal under your home directory:
 ```bash
 
 $ git clone https://github.com/whiveio/MacOs-cpuminer-mc-yespower 
